@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawashichan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 最近書いている言語
+## 最近書いている言語
   - Go
     - 仕事で一番書いています。普通のweb apiサーバーを書くくらいであれば問題なく書けると思います
     - RFCから実装する練習としてwebsocketサーバーの実装とかやってました
@@ -16,8 +16,7 @@
     - Writing an OS in Rustとか読んでます
   - Typescript
     - Reactやcdkを書く用途で使っています。基本的なhooksの使い方はわかっているとは思います。cssはあまり書けません。
-
-- 興味のあること
+## 興味のあること
   - データベース
     - トランザクション理論や,RDBMSの実装にそれなりに興味があります(database internalsの読書会に参加しています)。ゆくゆくは自分でRDBを実装したい。分散DBにも興味があります。アプリケーション開発者の中ではDBに興味がある方だとは思いますが,DBAには遠く及ばないレベルです。
   - 分散合意アルゴリズム
