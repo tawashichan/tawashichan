@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawashichan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 最近書いている言語
+### プログラミング言語関連
   - Go
     - 仕事で一番書いています。普通のweb apiサーバーを書くくらいであれば問題なく書けると思います
     - RFCから実装する練習としてwebsocketサーバーの実装とかやってました
